@@ -1,6 +1,6 @@
 # dassh
 
-Customizable drag and drop dashboard page with widgets. ([demo](https://nichitaa.github.io/pokemon-card-memory-game/))
+Customizable drag and drop dashboard page with widgets. ([demo](https://nichitaa.github.io/dassh/))
 
 ### When to use ?
 
